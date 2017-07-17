@@ -1,4 +1,4 @@
-# Accounts  - a mock expense tracking application
+# React Records  - a mock accounts tracking application
 
 Working on some React upgrades to a Rails front-end.
 
